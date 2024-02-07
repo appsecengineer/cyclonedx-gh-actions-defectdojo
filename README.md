@@ -1,1 +1,1 @@
-# dependency-track-gh-actions
+# Cyclonedx GitHub Actions DefectDojo
